@@ -1,4 +1,4 @@
-package main.rpgmod_commons.rpgmod.lib;
+package com.purechaose.rpgmod.lib;
 
 public class Reference {
 
